@@ -19,7 +19,7 @@ Resources for acquiring data analysis skills, sharpening existing data anlysis s
                 <a href="#oc">Online Courses</a>
             </li>
              <li>
-            <a href="#tools">Tools</a>
+            <a href="#tools">Tools & Guides</a>
             </li>
              <li>
             <a href="#np">Newsletters & Podcasts</a>
@@ -112,7 +112,7 @@ Resources for acquiring data analysis skills, sharpening existing data anlysis s
         </div> 
           <div id="tools">
     <h2>
-    <a href="#TOC">Tools</a>
+    <a href="#TOC">Tools & Guides</a>
     </h2>
     <p>
     FIX THIS UP! 
@@ -122,6 +122,11 @@ Resources for acquiring data analysis skills, sharpening existing data anlysis s
     <th class="tg-yw4l"><b>Tool</b></th>
     <th class="tg-yw4l"><b>Description</b></th>
     <th class="tg-yw4l"><b>Link</b></th>
+  </tr>
+        <tr>
+    <td class="tg-yw4l">Chartbuilder</td>
+    <td class="tg-yw4l">A free opensource chart creation tool from Quartz.</td>
+    <td class="tg-yw4l">https://quartz.github.io/Chartbuilder/</td>
   </tr>
   <tr>
     <td class="tg-yw4l">Open Refine</td>
