@@ -93,6 +93,11 @@ Resources for acquiring data analysis skills, sharpening existing data anlysis s
     <th class="tg-yw4l"><b>Institution(s)</b></th>
     <th class="tg-yw4l"><b>Link</b></th>
   </tr>
+        <tr>
+    <td class="tg-yw4l">Data Analysis Tools</td>
+    <td class="tg-yw4l">Wesleyan University</td>
+    <td class="tg-yw4l">https://www.coursera.org/learn/data-analysis-tools?action=enroll</td>
+  </tr>
   <tr>
     <td class="tg-yw4l">How to Process, Analyze, and Visualize Data</td>
     <td class="tg-yw4l">MIT</td>
@@ -119,14 +124,19 @@ Resources for acquiring data analysis skills, sharpening existing data anlysis s
     <th class="tg-yw4l"><b>Link</b></th>
   </tr>
   <tr>
-    <td class="tg-yw4l">Awesome Public Datasets</td>
-    <td class="tg-yw4l">A topic-centric list of HQ open datasets in public domains</td>
-    <td class="tg-yw4l">https://github.com/awesomedata/awesome-public-datasets</td>
+    <td class="tg-yw4l">Open Refine</td>
+    <td class="tg-yw4l">A free open source tool for working on messy data.</td>
+    <td class="tg-yw4l">http://openrefine.org/#</td>
+  </tr>
+   <tr>
+    <td class="tg-yw4l">Using Data in the Classroom</td>
+    <td class="tg-yw4l">A variety of resources for educators looking for how to incorporate data into the classroom which are also useful for learners.</td>
+    <td class="tg-yw4l">https://serc.carleton.edu/usingdata/index.html</td>
   </tr>
   <tr>
-    <td class="tg-yw4l">Teenie Harris Archive</td>
-    <td class="tg-yw4l">An archive of photographs of Pittsburgh's Black community spanning 1935-1975 from Black photographer Teenie Harris </td>
-    <td class="tg-yw4l">https://cmoa.org/art/teenie-harris-archive/</td>
+    <td class="tg-yw4l">Welcome to Data Analysis in Python</td>
+    <td class="tg-yw4l">An introductory Python guide by Nick Eubank, Post-Doctoral Fellow at the Center for the Study of Democratic Institutions at Vanderbilt University.</td>
+    <td class="tg-yw4l">http://www.data-analysis-in-python.org</td>
   </tr>
 </table>
 </div>
