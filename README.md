@@ -288,11 +288,6 @@ Resources for acquiring data analysis skills, sharpening existing data anlysis s
     <td class="tg-yw4l"> Data Visualization tips from Northeastern Journalism Professor John Wihbey</td>
     <td class="tg-yw4l">http://www.storybench.org/understanding-what-makes-a-visualization-memorable/</td>
   </tr>
-   <tr>
-    <td class="tg-yw4l">Why do some neighborhoods improve? </td>
-    <td class="tg-yw4l"> MIT Media Lab and Harvard University research collobaration using computer vision to measure changes in urban neighborhoods over time</td>
-    <td class="tg-yw4l">http://news.mit.edu/2017/highly-educated-residents-neighborhoods-improve-0706</td>
-  </tr>
 </table>
 </div>
 
