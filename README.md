@@ -148,6 +148,11 @@ Resources for acquiring data analysis skills, sharpening existing data anlysis s
     <td class="tg-yw4l">Information on how to set up Python data analysis library pandas.</td>
     <td class="tg-yw4l">https://pandas.pydata.org</td>
   </tr>
+        <tr>
+    <td class="tg-yw4l">Swirl</td>
+    <td class="tg-yw4l">"Learn R, in R." </td>
+    <td class="tg-yw4l">https://swirlstats.com</td>
+  </tr>
    <tr>
     <td class="tg-yw4l">Using Data in the Classroom</td>
     <td class="tg-yw4l">A variety of resources for educators looking for how to incorporate data into the classroom which are also useful for learners.</td>
