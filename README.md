@@ -115,7 +115,7 @@ Resources for acquiring data analysis skills, sharpening existing data anlysis s
     <a href="#TOC">Tools & Guides</a>
     </h2>
     <p>
-    FIX THIS UP! 
+    Tools and guides to assist in the data skills acquirement and refinement process.  
     </p>
 <table class="tg">
   <tr>
