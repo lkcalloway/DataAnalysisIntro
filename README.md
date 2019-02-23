@@ -128,10 +128,25 @@ Resources for acquiring data analysis skills, sharpening existing data anlysis s
     <td class="tg-yw4l">A free opensource chart creation tool from Quartz.</td>
     <td class="tg-yw4l">https://quartz.github.io/Chartbuilder/</td>
   </tr>
+        <tr>
+    <td class="tg-yw4l">Getting started with R</td>
+    <td class="tg-yw4l">Documentation and links to set up statistical computing software R.</td>
+    <td class="tg-yw4l">https://www.r-project.org</td>
+  </tr>
   <tr>
     <td class="tg-yw4l">Open Refine</td>
     <td class="tg-yw4l">A free open source tool for working on messy data.</td>
     <td class="tg-yw4l">http://openrefine.org/#</td>
+  </tr>
+         <tr>
+    <td class="tg-yw4l">Python</td>
+    <td class="tg-yw4l">Documentation and links to set up Python programming language.</td>
+    <td class="tg-yw4l">https://www.python.org</td>
+  </tr>
+         <tr>
+    <td class="tg-yw4l">Pandas</td>
+    <td class="tg-yw4l">Information on how to set up Python data analysis library pandas.</td>
+    <td class="tg-yw4l">https://pandas.pydata.org</td>
   </tr>
    <tr>
     <td class="tg-yw4l">Using Data in the Classroom</td>
