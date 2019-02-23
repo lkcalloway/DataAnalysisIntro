@@ -255,7 +255,7 @@ Resources for acquiring data analysis skills, sharpening existing data anlysis s
     <a href="#TOC">Examples of Data Reporting</a>
     </h2>
     <p>
-    Below are some examples of the end products of data analysis and reporting. 
+    Below are some examples of the end products of data analysis and results reporting as well as information design. 
     </p>
 <table class="tg">
   <tr>
@@ -267,6 +267,11 @@ Resources for acquiring data analysis skills, sharpening existing data anlysis s
     <td class="tg-yw4l">America's most prolific wall punchers, charted</td>
     <td class="tg-yw4l"> Medical data analysis from Quartz </td>
     <td class="tg-yw4l">https://qz.com/582720/americas-most-prolific-wall-punchers-charted/</td>
+  </tr>
+        <tr>
+    <td class="tg-yw4l">Data Detox Kit</td>
+    <td class="tg-yw4l"> An interactive experience to give users a better understanding of their digital footprints.</td>
+    <td class="tg-yw4l">https://theglassroomnyc.org/data-detox/</td>
   </tr>
   <tr>
     <td class="tg-yw4l">Every color of cardigan Mister Rogers wore from 1979-2001</td>
