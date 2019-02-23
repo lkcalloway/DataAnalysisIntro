@@ -37,7 +37,7 @@ Resources for acquiring data analysis skills, sharpening existing data anlysis s
             <a href="#TOC">How to Use This Guide</a>
         </h2>
         <p>
-            INSERT HOW TO INFO HERE
+            This guide provides a variety of methods improving your data analysis skills (and most are free). Scroll through the table of contents and find the method (or methods) that work for you. Good luck! 
         </p>
     </div>
     <div id="textbooks">
